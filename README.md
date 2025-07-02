@@ -74,7 +74,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ```bash
 lib/
- └── main.dart          # Main calculator app code
+ └── main.dart          # Main stopwatch app code
 assets/                 # (Optional: Add icon/fonts/images here)
 pubspec.yaml            # Project configuration
 ```
